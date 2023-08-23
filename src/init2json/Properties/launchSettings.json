@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "init2json": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
